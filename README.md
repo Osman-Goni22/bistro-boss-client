@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/0b4e19d2-51f6-46d2-8ce7-d9153b07815e)
+
+![image](https://github.com/user-attachments/assets/76faddbb-567f-4892-b49c-ed82ede965da)
 
 <h2>Overview:</h2>
 <p>Bistro-boss is a restaurant management system designed to streamline restaurant operations, enhance customer experience and improve efficiency. </p>
