@@ -39,3 +39,5 @@
 <li>set environment variables </li>
 <li>npm run dev</li>
 
+<h2>Live Link: https://bistro-boss-23fae.web.app/</h2>
+
