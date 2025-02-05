@@ -1,1 +1,1 @@
-<h2>Bistro Boss is a web based application</h2>
+<h2>Project Name: Bistro Boss </h2>
