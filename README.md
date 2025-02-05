@@ -36,7 +36,7 @@
 <h3>Steps to Run the project:</h3>
 <li>npm install</li>
 <li>install the above depencies</li>
-<li>set environment variables </li>
+<li>set environment variables DB_USER, DB_PASS, SSL_COMMERZ_API_KEY </li>
 <li>npm run dev</li>
 
 <h2>Live Link: https://bistro-boss-23fae.web.app/</h2>
